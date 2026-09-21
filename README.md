@@ -1,4 +1,28 @@
-<!DOCTYPE html>
+<!DOCTYPE html><h2>Coming Soon</h2>
+
+<div class="cards">
+
+  <div class="card">
+    <div class="emoji">🖊️</div>
+    <h3>Pens</h3>
+  </div>
+
+  <div class="card">
+    <div class="emoji">✏️</div>
+    <h3>Pencils</h3>
+  </div>
+
+  <div class="card">
+    <div class="emoji">📓</div>
+    <h3>Notebooks</h3>
+  </div>
+
+  <div class="card">
+    <div class="emoji">🧽</div>
+    <h3>Erasers</h3>
+  </div>
+
+</div>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
